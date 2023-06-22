@@ -1,0 +1,101 @@
+*{ 
+    margin: 0;
+    scroll-behavior: smooth;
+    padding:0;
+}
+
+.navbar{
+    transition: 2s;
+    display: flex;
+    justify-content: center; 
+    width: 50px;
+    height: 50px;}
+.navbar button{
+    margin-top: 1vw; 
+    margin-left: 1vw;  
+    text-align: center;  
+    padding: 20px;
+    margin-top: 15px; 
+    position: relative; 
+    background-image: linear-gradient(to right,#5a11aa, #ff00f9);
+  
+    
+    
+}
+.container{ 
+    background: url(Home.png); 
+    height: 100vh;  
+    background-size: 100% 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 5vw; 
+    cursor: pointer; 
+    position: relative; 
+    margin-top: 15px; 
+    padding: 20px; 
+    top: 8px; 
+    right: 60px;  
+    
+        
+    }
+button{ 
+    font-family: Times New Roman; 
+    width: 190px; 
+    padding:20px 0; 
+    text-align: center; 
+    margin: 110px 20px; 
+    border-radius: 100px;
+    font-weight: bold;
+    border: 6px solid 	#b807b8; 
+    background: transparent;
+    color: #ffffff;
+    cursor: pointer; 
+    flex-direction:row   
+    
+    
+        
+    
+    
+   
+}
+ button{ 
+    float: left; 
+    float: bottom;   
+    text-align:center  
+    
+
+    
+    
+    
+ }
+ img{
+     width: 100vw;
+ } 
+ .navbar
+ {
+    position: absolute;
+
+    left: 1px;
+    top: 130px;  
+    position: absolute; 
+    display: inline-block; 
+    
+
+    left: 30px; 
+    display: inline-block;  
+    margin-top: 15px;
+
+    
+
+
+ }   
+ a{ 
+    width:200px;
+	float:left;   
+    max-height: 100px;  
+    margin:0 
+ }
+ 
+
